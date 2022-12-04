@@ -1,0 +1,14 @@
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.exe
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.deps.json
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.runtimeconfig.json
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.runtimeconfig.dev.json
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.dll
+E:\Files\C#\DeepArchive\bin\Debug\netcoreapp3.1\DeepArchive.pdb
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.csproj.AssemblyReference.cache
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.AssemblyInfoInputs.cache
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.AssemblyInfo.cs
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.csproj.CoreCompileInputs.cache
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.dll
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.pdb
+E:\Files\C#\DeepArchive\obj\Debug\netcoreapp3.1\DeepArchive.genruntimeconfig.cache
